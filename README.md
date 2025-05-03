@@ -4,7 +4,9 @@
 ## Project Overview
 
 **Project Title**: ScienceQtech Employee Performance Mapping
+
 **Level**: Intermediate
+
 **Database**: ScienceQtech\_Employee\_Performance\_SQL\_Project
 
 This project is designed to showcase SQL skills through a real-world scenario of analyzing employee performance data for a company named ScienceQtech. The objective is to create and manage a database that holds employee information, track their performance, identify top performers, and generate insights that can support managerial decisions such as promotions, trainings, and appraisals.
