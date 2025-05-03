@@ -166,6 +166,6 @@ FROM employee_performance;
 
 This project effectively demonstrates the use of SQL for employee data analysis in a corporate environment. From database creation to deriving business insights, the analysis equips HR and management with actionable insights for strategic decisions like hiring, promotion, and training.
 
-Author - Kanan Sangeet
+## Author - Kanan Sangeet
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
